@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Firebase, and advanced Java concepts for Android development.  
 - 💞️ I’m looking to collaborate on innovative mobile app projects, particularly in the food or inventory management domain.  
 - 📫 How to reach me: https://github.com/Hasindu071 
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: Hasi  
 - ⚡ Fun fact: I love combining technology with everyday problems to create practical solutions—especially in the kitchen!  
 
 <!---
