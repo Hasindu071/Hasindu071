@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hasindu071  
+- 👋 Hi, I’m @Hasindu
 - 👀 I’m interested in software development, mobile app creation, and exploring emerging technologies like AI.  
 - 🌱 I’m currently learning Flutter, Firebase, and advanced Java concepts for Android development.  
 - 💞️ I’m looking to collaborate on innovative mobile app projects, particularly in the food or inventory management domain.  
