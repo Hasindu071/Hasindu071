@@ -22,16 +22,7 @@ I'm a passionate developer with a love for coding and technology. I enjoy learni
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Projects
 
-### [Project 1: Personal Portfolio](https://github.com/Hasindu071/portfolio)
-A responsive portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript.
-
-### [Project 2: Data Analysis with Python](https://github.com/Hasindu071/data-analysis)
-A collection of data analysis projects using Python libraries like Pandas, NumPy, and Matplotlib.
-
-### [Project 3: Django Blog](https://github.com/Hasindu071/django-blog)
-A simple blog application created with Django, featuring user authentication, CRUD operations, and responsive design.
 
 ## GitHub Stats
 
